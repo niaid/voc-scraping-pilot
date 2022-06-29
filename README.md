@@ -14,6 +14,9 @@ License: public <br>
 <br>
 <br>
 
+This is a repository to complement the poster presentation "Web scraping pilot study for SARS-CoV-2 variants of concern dashboards" given by Lisa M. Mayer at ISMB 2022. It contains scripts from the study period July 1 through September 9, 2021, which are not still maintained and may not work as originally intended. These could be updated or modified for future similar use.
+<br>
+
 **Background**
 <p>As SARS-CoV-2 circulates, it accumulates mutations that sometimes affect virus behavior and thus human health. These can go on to form genetically distinct groups, called variants or lineages. Organizations throughout the world track these variants using systems that assess the threats each poses and how this changes over time. They publish these assessments online or in other formats, generating data that other sites share directly or use for additional analyses.</p>
 <p>This variation in classification and reporting systems makes it challenging to uncover the "true" threat level of any variant. A proposed mechanism to address this is twofold: 1) evaluating aspects of these websites to ensure they are reliable sources and 2) collating and summarizing findings across multiple websites to learn about threat levels. This repo contains setup information and scripts for a small-scale project addressing part 2 of that mechanism.</p>
