@@ -11,10 +11,10 @@ Version: 1.0 <br>
 License: public <br>
 
 <br>
-<br>
-<br>
 
 This is a repository to complement the poster presentation "Web scraping pilot study for SARS-CoV-2 variants of concern dashboards" given by Lisa M. Mayer at ISMB 2022. It contains scripts from the study period July 1 through September 9, 2021, which are not still maintained and may not work as originally intended. These could be updated or modified for future similar use.
+
+<br>
 <br>
 
 **Background**
